@@ -1,14 +1,14 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 測量法義
-#+DATE: 2019-03-29 21:08:59.729089
+#+DATE: 2019-03-29 21:08:59.784970
 #+PROPERTY: ID KR3f0014
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR3f0014_WYG_000-1a>¶
 　　欽定四庫全書　　　　子部六¶
 ¶
-　　測量法義　　　　　　天文算法類一(推𡵯之屬)¶
+　　測量法義　　　　　　天文算法類一(推步之屬)¶
 ¶
 　　測量異同　　　　　　天文算法類一(推步之屬)¶
 ¶
